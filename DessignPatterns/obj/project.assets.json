@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AbstractFactoryDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AbstractFactoryDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFactoryDesignPattern.dll": {}
+        }
+      },
+      "FactoryDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FactoryDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj",
+      "msbuildProject": "../AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj"
+    },
+    "FactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../FactoryDesignPattern/FactoryDesignPattern.csproj",
+      "msbuildProject": "../FactoryDesignPattern/FactoryDesignPattern.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AbstractFactoryDesignPattern >= 1.0.0",
+      "FactoryDesignPattern >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mohamed fawzy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\DessignPatterns\\CreationalDessignPatterns.csproj",
+      "projectName": "CreationalDessignPatterns",
+      "projectPath": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\DessignPatterns\\CreationalDessignPatterns.csproj",
+      "packagesPath": "C:\\Users\\mohamed fawzy\\.nuget\\packages\\",
+      "outputPath": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\DessignPatterns\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mohamed fawzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj": {
+              "projectPath": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj"
+            },
+            "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\FactoryDesignPattern\\FactoryDesignPattern.csproj": {
+              "projectPath": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\10 Design Patterns\\Assignments\\DesignPatterns\\DessignPatterns\\FactoryDesignPattern\\FactoryDesignPattern.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

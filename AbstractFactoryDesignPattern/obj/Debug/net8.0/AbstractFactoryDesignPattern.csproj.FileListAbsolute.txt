@@ -1,0 +1,11 @@
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.deps.json
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.dll
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.dll
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\refint\AbstractFactoryDesignPattern.dll
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\10 Design Patterns\Assignments\DesignPatterns\DessignPatterns\AbstractFactoryDesignPattern\obj\Debug\net8.0\ref\AbstractFactoryDesignPattern.dll
